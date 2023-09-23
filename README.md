@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anastasia
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:anlvovskay@mail.ru'>anlvovskay@mail.ru</a>
+   📫 How to reach me: <a href='mailto:anlvovskay@mail.ru'>nlfop@vk.com</a>
 </p>
 
 
