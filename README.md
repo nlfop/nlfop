@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Anastasia
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV4cjA4dGlwbzJ6OGN4bW5iZXM5ZGdrcjU1YzRtODdsd2RyMDRreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TNf5oSRelTeI8/giphy.gif" width="50%"/>
+</div>
 <p align='center'>
    📫 How to reach me: <a href='mailto:anlvovskay@mail.ru'>nlfop@vk.com</a>
 </p>
